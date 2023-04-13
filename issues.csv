@@ -1,0 +1,4 @@
+title,body
+Core app,Implement the core framework for the app with an initial web page.
+Containerise the app,Add a Dockerfile and run on local dev environment.
+Build and Deploy,Build and deploy the containerised app using GitHub Actions and deployed into GHCR.
